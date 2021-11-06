@@ -1,0 +1,195 @@
+id, station_name, line_name
+0, Bulvar Rokossovskogo, Sokolnicheskaya
+1, Cherkizovskaya, Sokolnicheskaya
+2, Preobrazhenskaya ploschad, Sokolnicheskaya
+3, Sokolniki, Sokolnicheskaya
+4, Krasnoselskaya, Sokolnicheskaya
+5, Komsomolskaya, Sokolnicheskaya
+6, Krasnye vorota, Sokolnicheskaya
+7, Chistye prudy, Sokolnicheskaya
+8, Lubyanka, Sokolnicheskaya
+9, Ohotny ryad, Sokolnicheskaya
+10, Biblioteka imeni Lenina, Sokolnicheskaya
+11, Kropotkinskaya, Sokolnicheskaya
+12, Park kultury, Sokolnicheskaya
+13, Frunzenskaya, Sokolnicheskaya
+14, Sportivnaya, Sokolnicheskaya
+15, Vorobevy gory, Sokolnicheskaya
+16, Universitet, Sokolnicheskaya
+17, Prospekt Vernadskogo, Sokolnicheskaya
+18, Yugo-Zapadnaya, Sokolnicheskaya
+19, Rechnoy vokzal, Zamoskvoretskaya
+20, Vodny stadion, Zamoskvoretskaya
+21, Voykovskaya, Zamoskvoretskaya
+22, Sokol, Zamoskvoretskaya
+23, Aeroport, Zamoskvoretskaya
+24, Dinamo, Zamoskvoretskaya
+25, Belorusskaya, Zamoskvoretskaya
+26, Mayakovskaya, Zamoskvoretskaya
+27, Tverskaya, Zamoskvoretskaya
+28, Teatralnaya, Zamoskvoretskaya
+29, Novokuznetskaya, Zamoskvoretskaya
+30, Paveletskaya, Zamoskvoretskaya
+31, Avtozavodskaya, Zamoskvoretskaya
+32, Kolomenskaya, Zamoskvoretskaya
+33, Kashirskaya, Zamoskvoretskaya
+34, Kantemirovskaya, Zamoskvoretskaya
+35, Tsaritsyno, Zamoskvoretskaya
+36, Orehovo, Zamoskvoretskaya
+37, Domodedovskaya, Zamoskvoretskaya
+38, Krasnogvardeyskaya, Zamoskvoretskaya
+39, Alma-Atinskaya, Zamoskvoretskaya
+40, Schelkovskaya, Arbatsko-Pokrovskaya
+41, Pervomayskaya, Arbatsko-Pokrovskaya
+42, Izmaylovskaya, Arbatsko-Pokrovskaya
+43, Partizanskaya, Arbatsko-Pokrovskaya
+44, Semenovskaya, Arbatsko-Pokrovskaya
+45, Elektrozavodskaya, Arbatsko-Pokrovskaya
+46, Baumanskaya, Arbatsko-Pokrovskaya
+47, Kurskaya, Arbatsko-Pokrovskaya
+48, Ploschad Revolyutsii, Arbatsko-Pokrovskaya
+49, Arbatskaya, Arbatsko-Pokrovskaya
+50, Smolenskaya, Arbatsko-Pokrovskaya
+51, Kievskaya, Arbatsko-Pokrovskaya
+52, Park Pobedy, Arbatsko-Pokrovskaya
+53, Slavyanskiy bulvar, Arbatsko-Pokrovskaya
+54, Kuntsevskaya, Arbatsko-Pokrovskaya
+55, Molodezhnaya, Arbatsko-Pokrovskaya
+56, Krylatskoe, Arbatsko-Pokrovskaya
+57, Strogino, Arbatsko-Pokrovskaya
+58, Myakinino, Arbatsko-Pokrovskaya
+59, Volokolamskaya, Arbatsko-Pokrovskaya
+60, Mitino, Arbatsko-Pokrovskaya
+61, Pyatnitskoe shosse, Arbatsko-Pokrovskaya
+62, Kuntsevskaya, Filevskaya
+63, Pionerskaya, Filevskaya
+64, Filevskiy park, Filevskaya
+65, Bagrationovskaya, Filevskaya
+66, Fili, Filevskaya
+67, Kutuzovskaya, Filevskaya
+68, Studencheskaya, Filevskaya
+69, Kievskaya, Filevskaya
+70, Smolenskaya, Filevskaya
+71, Arbatskaya, Filevskaya
+72, Aleksandrovskiy sad, Filevskaya
+73, Vystavochnaya, Filevskaya
+74, Mezhdunarodnaya, Filevskaya
+75, Park kultury, Koltsevaya
+76, Oktyabrskaya, Koltsevaya
+77, Dobryninskaya, Koltsevaya
+78, Paveletskaya, Koltsevaya
+79, Taganskaya, Koltsevaya
+80, Kurskaya, Koltsevaya
+81, Komsomolskaya, Koltsevaya
+82, Prospekt Mira, Koltsevaya
+83, Novoslobodskaya, Koltsevaya
+84, Belorusskaya, Koltsevaya
+85, Krasnopresnenskaya, Koltsevaya
+86, Kievskaya, Koltsevaya
+87, Medvedkovo, Kaluzhsko-Rizhskaya
+88, Babushkinskaya, Kaluzhsko-Rizhskaya
+89, Sviblovo, Kaluzhsko-Rizhskaya
+90, Botanicheskiy sad, Kaluzhsko-Rizhskaya
+91, VDNH, Kaluzhsko-Rizhskaya
+92, Alekseevskaya, Kaluzhsko-Rizhskaya
+93, Rizhskaya, Kaluzhsko-Rizhskaya
+94, Prospekt Mira, Kaluzhsko-Rizhskaya
+95, Suharevskaya, Kaluzhsko-Rizhskaya
+96, Turgenevskaya, Kaluzhsko-Rizhskaya
+97, Kitay-gorod, Kaluzhsko-Rizhskaya
+98, Tretyakovskaya, Kaluzhsko-Rizhskaya
+99, Oktyabrskaya, Kaluzhsko-Rizhskaya
+100, Shabolovskaya, Kaluzhsko-Rizhskaya
+101, Leninskiy prospekt, Kaluzhsko-Rizhskaya
+102, Akademicheskaya, Kaluzhsko-Rizhskaya
+103, Profsoyuznaya, Kaluzhsko-Rizhskaya
+104, Novye Cheremushki, Kaluzhsko-Rizhskaya
+105, Kaluzhskaya, Kaluzhsko-Rizhskaya
+106, Belyaevo, Kaluzhsko-Rizhskaya
+107, Konkovo, Kaluzhsko-Rizhskaya
+108, Teply Stan, Kaluzhsko-Rizhskaya
+109, Yasenevo, Kaluzhsko-Rizhskaya
+110, Novoyasenevskaya, Kaluzhsko-Rizhskaya
+111, Planernaya, Tagansko-Krasnopresnenskaya
+112, Shodnenskaya, Tagansko-Krasnopresnenskaya
+113, Tushinskaya, Tagansko-Krasnopresnenskaya
+114, Schukinskaya, Tagansko-Krasnopresnenskaya
+115, Oktyabrskoe pole, Tagansko-Krasnopresnenskaya
+116, Polezhaevskaya, Tagansko-Krasnopresnenskaya
+117, Begovaya, Tagansko-Krasnopresnenskaya
+118, Ulitsa 1905 goda, Tagansko-Krasnopresnenskaya
+119, Barrikadnaya, Tagansko-Krasnopresnenskaya
+120, Pushkinskaya, Tagansko-Krasnopresnenskaya
+121, Kuznetskiy most, Tagansko-Krasnopresnenskaya
+122, Kitay-gorod, Tagansko-Krasnopresnenskaya
+123, Taganskaya, Tagansko-Krasnopresnenskaya
+124, Proletarskaya, Tagansko-Krasnopresnenskaya
+125, Volgogradskiy prospekt, Tagansko-Krasnopresnenskaya
+126, Tekstilschiki, Tagansko-Krasnopresnenskaya
+127, Kuzminki, Tagansko-Krasnopresnenskaya
+128, Ryazanskiy prospekt, Tagansko-Krasnopresnenskaya
+129, Vyhino, Tagansko-Krasnopresnenskaya
+130, Novokosino, Kalininskaya
+131, Novogireevo, Kalininskaya
+132, Perovo, Kalininskaya
+133, Shosse Entuziastov, Kalininskaya
+134, Aviamotornaya, Kalininskaya
+135, Ploschad Ilicha, Kalininskaya
+136, Marksistskaya, Kalininskaya
+137, Tretyakovskaya, Kalininskaya
+138, Altufevo, Serpuhovsko-Timiryazevskaya
+139, Bibirevo, Serpuhovsko-Timiryazevskaya
+140, Otradnoe, Serpuhovsko-Timiryazevskaya
+141, Vladykino, Serpuhovsko-Timiryazevskaya
+142, Petrovsko-Razumovskaya, Serpuhovsko-Timiryazevskaya
+143, Timiryazevskaya, Serpuhovsko-Timiryazevskaya
+144, Dmitrovskaya, Serpuhovsko-Timiryazevskaya
+145, Savelovskaya, Serpuhovsko-Timiryazevskaya
+146, Mendeleevskaya, Serpuhovsko-Timiryazevskaya
+147, Tsvetnoy bulvar, Serpuhovsko-Timiryazevskaya
+148, Chehovskaya, Serpuhovsko-Timiryazevskaya
+149, Borovitskaya, Serpuhovsko-Timiryazevskaya
+150, Polyanka, Serpuhovsko-Timiryazevskaya
+151, Serpuhovskaya, Serpuhovsko-Timiryazevskaya
+152, Tulskaya, Serpuhovsko-Timiryazevskaya
+153, Nagatinskaya, Serpuhovsko-Timiryazevskaya
+154, Nagornaya, Serpuhovsko-Timiryazevskaya
+155, Nahimovskiy prospekt, Serpuhovsko-Timiryazevskaya
+156, Sevastopolskaya, Serpuhovsko-Timiryazevskaya
+157, Chertanovskaya, Serpuhovsko-Timiryazevskaya
+158, Yuzhnaya, Serpuhovsko-Timiryazevskaya
+159, Prazhskaya, Serpuhovsko-Timiryazevskaya
+160, Ulitsa Akademika Yangelya, Serpuhovsko-Timiryazevskaya
+161, Annino, Serpuhovsko-Timiryazevskaya
+162, Bulvar Dmitriya Donskogo, Serpuhovsko-Timiryazevskaya
+163, Marina roscha, Lyublinsko-Dmitrovskaya
+164, Dostoevskaya, Lyublinsko-Dmitrovskaya
+165, Trubnaya, Lyublinsko-Dmitrovskaya
+166, Sretenskiy bulvar, Lyublinsko-Dmitrovskaya
+167, Chkalovskaya, Lyublinsko-Dmitrovskaya
+168, Rimskaya, Lyublinsko-Dmitrovskaya
+169, Krestyanskaya zastava, Lyublinsko-Dmitrovskaya
+170, Dubrovka, Lyublinsko-Dmitrovskaya
+171, Kozhuhovskaya, Lyublinsko-Dmitrovskaya
+172, Pechatniki, Lyublinsko-Dmitrovskaya
+173, Volzhskaya, Lyublinsko-Dmitrovskaya
+174, Lyublino, Lyublinsko-Dmitrovskaya
+175, Bratislavskaya, Lyublinsko-Dmitrovskaya
+176, Marino, Lyublinsko-Dmitrovskaya
+177, Borisovo, Lyublinsko-Dmitrovskaya
+178, Shipilovskaya, Lyublinsko-Dmitrovskaya
+179, Zyablikovo, Lyublinsko-Dmitrovskaya
+180, Kashirskaya, Kahovskaya
+181, Varshavskaya, Kahovskaya
+182, Kahovskaya, Kahovskaya
+183, Ulitsa Starokachalovskaya, Butovskaya
+184, Ulitsa Skobelevskaya, Butovskaya
+185, Bulvar Admirala Ushakova, Butovskaya
+186, Ulitsa Gorchakova, Butovskaya
+187, Buninskaya alleya, Butovskaya
+188, Timiryazevskaya, Monorels
+189, Ulitsa Milashenkova, Monorels
+190, Teletsentr, Monorels
+191, Ulitsa akademika Koroleva, Monorels
+192, Vystavochny tsentr, Monorels
+193, Ulitsa Sergeya Eyzenshteyna, Monorels
